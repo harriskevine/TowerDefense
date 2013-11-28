@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="src" path="/mygame"/>
+	<classpathentry exported="true" kind="lib" path="/home/kevin/.gradle/caches/artifacts-26/filestore/com.badlogicgames.gdx/gdx-backend-android/0.9.9/jar/7091df59734c9ea70950b334eb0e9973b6a73973/gdx-backend-android-0.9.9.jar" sourcepath="/home/kevin/.gradle/caches/artifacts-26/filestore/com.badlogicgames.gdx/gdx-backend-android/0.9.9/source/b10c3d786d06136d0c8c0632c2b9e7d64e51ed04/gdx-backend-android-0.9.9-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/kevin/.gradle/caches/artifacts-26/filestore/com.badlogicgames.gdx/gdx/0.9.9/jar/aa997660c06feae9e7f7ff318b4fa217ebae3fb5/gdx-0.9.9.jar" sourcepath="/home/kevin/.gradle/caches/artifacts-26/filestore/com.badlogicgames.gdx/gdx/0.9.9/source/d20e52bfcfdeb3eed082668e9feca2e178e7ff7e/gdx-0.9.9-sources.jar"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
